@@ -1,0 +1,114 @@
+.App {
+  text-align: center;
+}
+
+
+table{
+  border: 1px solid black;
+  margin:100px;
+  text-align: left;
+}
+
+input[type=text] {
+  
+  padding: 12px 20px;
+  margin: 8px 0;
+  width: 80%;
+  border-radius: 2%;
+  background-color: hsl(0, 0%, 100%);
+  border: 2px solid hsl(0, 0%, 90%);
+  text-align: left;
+  
+}
+
+input[type=email] {
+  
+  padding: 12px 20px;
+  margin: 8px 0;
+  width: 80%;
+  border-radius: 2%;
+  background-color: hsl(0, 0%, 100%);
+  border: 2px solid hsl(0, 0%, 90%);
+  text-align: left;
+  
+}
+
+input[type=tel] {
+  
+  padding: 12px 20px;
+  margin: 8px 0;
+  width: 80%;
+  border-radius: 2%;
+  background-color: hsl(0, 0%, 100%);
+  border: 2px solid hsl(0, 0%, 90%);
+  text-align: left;
+  
+}
+
+input[type=url] {
+  
+  padding: 12px 20px;
+  margin: 8px 0;
+  width: 80%;
+  border-radius: 2%;
+  background-color: hsl(0, 0%, 100%);
+  border: 2px solid hsl(0, 0%, 90%);
+  text-align: left;
+  
+}
+
+.Wrapper{
+  margin: 0 auto;
+  padding: 4rem 0;
+  width: 50%;
+  height: 30%;
+  max-width: 60rem;
+  box-sizing:border-box;
+}
+
+form {
+  padding: 2rem;
+  border-radius: 2%;
+  background-color: hsl(0, 0%, 100%);
+  border: 2px solid hsl(0, 0%, 90%);
+  text-align: left;
+  background-color: rgb(247, 246, 246);
+}
+
+button{
+  background-color: rgb(11, 35, 98);
+  height:50%;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 5%;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.Card{
+  margin: 0 auto;
+  padding: 4rem 0;
+  width: 50%;
+  height: 50%;
+  max-width: 60rem;
+  box-sizing:border-box;
+  
+}
+
+.Header{
+  padding: 2rem;
+  border-radius: 2%;
+  background-color: hsl(0, 0%, 100%);
+  border: 2px solid hsl(0, 0%, 90%);
+  text-align: left;
+  background-color: rgb(247, 246, 246);
+
+}
+
+.Img{
+  width: 200px;
+  height: 200px;
+}
